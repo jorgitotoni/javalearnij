@@ -6,7 +6,11 @@
 
     <groupId>net.addit.java</groupId>
     <artifactId>javalearnij</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-20220623-SNAPSHOT</version>
+    <modules>
+        <module>java-foundational</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
