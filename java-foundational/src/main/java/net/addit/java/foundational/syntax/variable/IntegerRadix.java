@@ -1,6 +1,5 @@
 package net.addit.java.foundational.syntax.variable;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 /**
  * 整数的四种进制表示方式
