@@ -27,7 +27,7 @@ public class SmartPhone extends Cellphone{
 
     }
 
-    SmartPhone(String model){
+    public SmartPhone(String model){
         super(model);
     }
 

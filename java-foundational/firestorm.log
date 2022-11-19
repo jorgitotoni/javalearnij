@@ -1,0 +1,557 @@
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileTest.testFileListFilesWarning()[pri:0, instance:net.addit.java.api.io.FileTest@59af0466] -435143569
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.recursionCallV2()[pri:0, instance:net.addit.java.api.io.RecursionTest@3738449f] 216819739
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.recursionCallV2()[pri:0, instance:net.addit.java.api.io.RecursionTest@68c72235] 1048266161
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.recursionCallV2()[pri:0, instance:net.addit.java.api.io.RecursionTest@10959ece] -431373750
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.testRecursionCall()[pri:0, instance:net.addit.java.api.io.RecursionTest@11bd0f3b] -1170634011
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.testRecursionCall()[pri:0, instance:net.addit.java.api.io.RecursionTest@59af0466] 36405264
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.testRecursionCall()[pri:0, instance:net.addit.java.api.io.RecursionTest@378542de] -536756600
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.testRecursionCall()[pri:0, instance:net.addit.java.api.io.RecursionTest@2525ff7e] -844989656
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.testRecursionCall()[pri:0, instance:net.addit.java.api.io.RecursionTest@65f095f8] 242028962
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE RecursionTest.testRecursionCall()[pri:0, instance:net.addit.java.api.io.RecursionTest@34f7cfd9] -579581053
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamConstructor()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@7e9131d5] -493230091
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteData()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@68c72235] -1578695994
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteData()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@68c72235] -1578695994
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteData()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@6b8ca3c8] -1532197799
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteData()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@62230c58] -1690112791
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteData()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@6b8ca3c8] -1532197799
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteDataAppend()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@2cd2a21f] 2034000802
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteDataAppend()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@68c72235] -1255087176
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteData()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@68c72235] -1578695994
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileOutputStreamTest.testFileOutputStreamWriteDataAppend()[pri:0, instance:net.addit.java.api.io.FileOutputStreamTest@3e6ef8ad] -1965508048
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testFileInputStream()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@7e9131d5] -188565987
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testFileInputStreamReadFileContent()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@68c72235] -866817400
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testFileInputStreamReadFileContent()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@68c72235] -866817400
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testFileInputStreamReadFileContent()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@6b8ca3c8] -820319205
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testFileInputStreamReadFileContent()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@68c72235] -866817400
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testFileInputStreamReadFileContent()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@346d61be] -1745114607
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileInputStreamTest.testImageCopy()[pri:0, instance:net.addit.java.api.io.FileInputStreamTest@65f095f8] 693397342
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileReaderTest.testFileReaderRead()[pri:0, instance:net.addit.java.api.io.FileReaderTest@2beee7ff] -975600971
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileReaderTest.testFileReaderReadManyChars()[pri:0, instance:net.addit.java.api.io.FileReaderTest@59af0466] 1469927020
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileReaderTest.testFileReaderReadManyChars()[pri:0, instance:net.addit.java.api.io.FileReaderTest@10959ece] 243525844
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileWriterTest.testFileWriterWriteData()[pri:0, instance:net.addit.java.api.io.FileWriterTest@2cdd0d4b] -2094381096
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileWriterTest.testFileWriterWriteData()[pri:0, instance:net.addit.java.api.io.FileWriterTest@6a370f4] 1559276417
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileWriterTest.testFileWriterWriteData()[pri:0, instance:net.addit.java.api.io.FileWriterTest@10959ece] 1726142811
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileWriterTest.testFileWriterWriteData()[pri:0, instance:net.addit.java.api.io.FileWriterTest@62e7f11d] -1187697750
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE FileWriterTest.testTextFileCopy()[pri:0, instance:net.addit.java.api.io.FileWriterTest@2525ff7e] 365543795
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE PropertiesTest.testPropertiesReadFile()[pri:0, instance:net.addit.java.api.io.PropertiesTest@7e9131d5] 986146367
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE PropertiesTest.testPropertiesReadFile()[pri:0, instance:net.addit.java.api.io.PropertiesTest@6b8ca3c8] 667080754
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE PropertiesTest.testPropertiesWriteData()[pri:0, instance:net.addit.java.api.io.PropertiesTest@10959ece] 49251403
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedInputStreamBufferedOutputStreamTest.testVideoCopyWithBufferedInputStreamBufferedOutputStream()[pri:0, instance:net.addit.java.api.io.BufferedInputStreamBufferedOutputStreamTest@2e1d27ba] 325496246
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedInputStreamBufferedOutputStreamTest.testVideoCopyWithInputStreamOutputStream()[pri:0, instance:net.addit.java.api.io.BufferedInputStreamBufferedOutputStreamTest@6b8ca3c8] 1831062116
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testTextFileCopy()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@49dc7102] 1678390386
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testBufferedWriterNewLine()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@6b8ca3c8] 1473827544
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testBufferedWriterNewLine()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@6b8ca3c8] 1473827544
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testBufferedReaderReadLine()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@62230c58] -895713574
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testBufferedReaderReadLine()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@74455848] -591476022
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testBufferedWriterNewLine()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@44a7bfbc] 821292748
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE BufferedReaderBufferedWriterTest.testFileContentSort()[pri:0, instance:net.addit.java.api.io.BufferedReaderBufferedWriterTest@3a6bb9bf] -551207496
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testReaderGBKFile()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@2e1d27ba] 1441077964
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testInputStreamReaderReadFileContent()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@6b8ca3c8] -757041611
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testInputStreamReaderReadFileContent()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@6b8ca3c8] -757041611
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testOutputStreamWriterWriteUTF8File()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@10959ece] 628697905
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testFileEncodingConvert()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@74455848] -1034475585
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testFileEncodingConvert()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@6631f5ca] -1270627007
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testReaderGBKFile()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@1eb5174b] 1182599773
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testFileEncodingConvert()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@3a6bb9bf] -2005038794
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testReaderGBKFile()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@3a6bb9bf] 1647553745
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testFileEncodingConvert()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@41e1e210] -1879854713
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE InputStreamReaderOutputStreamWriterTest.testReaderGBKFile()[pri:0, instance:net.addit.java.api.io.InputStreamReaderOutputStreamWriterTest@59af0466] -2122909832
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE ObjectOutputStreamObjectInputStreamTest.testObjectOutputStreamWriteObject()[pri:0, instance:net.addit.java.api.io.ObjectOutputStreamObjectInputStreamTest@61d6015a] -455088019
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE ObjectOutputStreamObjectInputStreamTest.testObjectInputStreamReadObject()[pri:0, instance:net.addit.java.api.io.ObjectOutputStreamObjectInputStreamTest@61d6015a] -2099852593
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE ObjectOutputStreamObjectInputStreamTest.testObjectInputStreamReadObject()[pri:0, instance:net.addit.java.api.io.ObjectOutputStreamObjectInputStreamTest@68c72235] -1983386710
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+
+DEBUG main org.testng.TestNG - suiteXmlPath: "/Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml"
+DEBUG main org.testng.internal.Graph - [Graph] ADDING NODE ObjectOutputStreamObjectInputStreamTest.testCollectionSerializationDeserialization()[pri:0, instance:net.addit.java.api.io.ObjectOutputStreamObjectInputStreamTest@68c72235] -211233431
+DEBUG main org.testng.internal.Graph - [Graph] ================ SORTING
+DEBUG main org.testng.internal.Graph - [Graph] =============== DONE SORTING
+DEBUG main org.testng.internal.Graph - [Graph] ====== SORTED NODES
+DEBUG main org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+INFO main org.testng.internal.Utils - [TestNG] Running:
+  /Users/antoniojiang/Library/Caches/JetBrains/IdeaIC2021.1/temp-testng-customsuite.xml
+

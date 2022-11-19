@@ -110,4 +110,10 @@ public class Cellphone extends Product {
         this.weight=weight;
     }
 
+    @Override
+    public String toString() {
+        return "Cellphone{" +
+                "model='" + model + '\'' +
+                '}';
+    }
 }

@@ -9,7 +9,7 @@ import java.util.Arrays;
  * @version 2022/7/8 下午1:38
  * @since JDK8
  */
-public class BasicUtils {
+public class ArrayUtils {
     /**
      * 比较两个整数是否相等
      * @param left 第一个操作数
@@ -64,6 +64,23 @@ public class BasicUtils {
             }
         }
         System.out.println("冒泡排序后的数组为："+ Arrays.toString(numbers));
+    }
+
+    public static void selectSort(int[] numbers) {
+        System.out.println("选择排序前的数组为："+ Arrays.toString(numbers));
+
+        for (int i = 0; i < numbers.length-1; i++) {
+            for (int j = i+1; j < numbers.length; j++) {
+                if(numbers[i]>numbers[j]){
+                    numbers[i]=numbers[j]^numbers[i];
+                    numbers[j]=numbers[j]^numbers[i];
+                    numbers[i]=numbers[j]^numbers[i];
+                }else {
+                    continue;
+                }
+            }
+        }
+        System.out.println("选择排序后的数组为："+ Arrays.toString(numbers));
     }
 
     public static int binaryResearch(int target,int[] numbers){
